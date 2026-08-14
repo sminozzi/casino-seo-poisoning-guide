@@ -20,6 +20,7 @@ SEO Spam or SEO Poisoning is a cyberattack where criminals compromise legitimate
 
 
 ## How it Works in Practice
+
 LEGITIMATE WEBSITE (Victim)
          ↓
   [SERVER COMPROMISE]
