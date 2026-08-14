@@ -188,8 +188,9 @@ Server-wide post-cleanup audit:
 Inspect all crontabs: crontab -l and /etc/cron.d/
 Check persistent systemd units: systemctl list-unit-files
 Audit temporary storage directories: /tmp and /var/tmp
-5. Prevention and Hardening
-🔐 Server-Level Security Controls
+5. Prevention and Hardening. 
+
+## 🔐 Server-Level Security Controls
 System Maintenance:
 # Ensure operating system packages remain up-to-date
 dnf update -y
@@ -207,8 +208,9 @@ Access Control Protocol:
 Restrict SSH access strictly to Public-Key Authentication (disable password auth).
 Enforce Two-Factor Authentication (2FA) across web management control panels (CWP).
 Restrict administrative interfaces behind IP allowlists.
-Change default operational ports (SSH, CWP control panel).
-🛡️ Application Security & Monitoring
+Change default operational ports (SSH, CWP control panel).  
+
+## 🛡️ Application Security & Monitoring
 ModSecurity Rules: Deploy rules blocking connection attempts to known malicious proxy destinations or C2 infrastructure.
 File System Integrity Monitoring (FIM): Monitor changes to critical system binary folders using tools like AIDE or Tripwire.
 Off-Site Backups: Maintain isolated, read-only remote server backups taken independently of the local hypervisor.
