@@ -161,8 +161,9 @@ ls -la page_*.html
 grep -i "casino\|slot\|yinCangZhuZhanWaiLian\|apk.app" page_googlebot.html
 
 
-If the second request reveals unexpected redirects or scripts absent from the clean request, the web server binary environment is compromised.
-4. How to Remove the Malware
+If the second request reveals unexpected redirects or scripts absent from the clean request, the web server binary environment is compromised.  
+
+## 4. How to Remove the Malware
 🔄 Recommended Remediation Approach
 CRITICAL: When malware operates at the compiled Apache module layer (typically in /usr/lib64/httpd/modules/), attempting to manual-patch the binary file is unsafe. The only reliable resolution is a full reinstallation of the web server package.
 Step-by-Step Recovery on AlmaLinux 9 with CWP
