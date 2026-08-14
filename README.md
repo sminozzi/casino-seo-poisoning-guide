@@ -212,13 +212,16 @@ Change default operational ports (SSH, CWP control panel).
 ModSecurity Rules: Deploy rules blocking connection attempts to known malicious proxy destinations or C2 infrastructure.
 File System Integrity Monitoring (FIM): Monitor changes to critical system binary folders using tools like AIDE or Tripwire.
 Off-Site Backups: Maintain isolated, read-only remote server backups taken independently of the local hypervisor.
-Log Auditing: Continuously inspect HTTP server logs (/var/log/httpd/) for unusual traffic spikes originating from regions outside your customer base.
-📋 Known Malicious Domains (Block via ModSecurity / Firewall)
-Add these domains—extracted directly from injected payloads during this incident—to your perimeter blocklists or ModSecurity custom rulesets:
+Log Auditing: Continuously inspect HTTP server logs (/var/log/httpd/) for unusual traffic spikes originating from regions outside your customer base.  
+
+## 📋 Known Malicious Domains (Block via ModSecurity / Firewall)
+Add these domains—extracted directly from injected payloads during this incident—to your perimeter blocklists or ModSecurity custom rulesets:  
+
 bengkel69apk.app
 ka789apk.app
 tt789apk.dev
 zk6apk.app
 
 
-Security Reminder: Immediately rotate all administrative secrets (root passwords, database credentials, FTP users, and panel tokens) after completing malware removal.
+## Security Reminder: 
+Immediately rotate all administrative secrets (root passwords, database credentials, FTP users, and panel tokens) after completing malware removal.
