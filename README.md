@@ -1,10 +1,12 @@
 Casino SEO Poisoning: Complete Guide to Detection, Removal, and Prevention
+
 The growing threat of SEO theft and how to protect your server (Real-world case study on a VPS with AlmaLinux 9 and CWP)
 📈 The Scale of the Problem
 SEO theft for online casinos is growing at an alarming scale. We are no longer dealing with isolated attacks from "lone hackers"—we are talking about industrial-scale operations orchestrated by highly organized cybercrime groups with significant technical capabilities and financial backing.
 These groups operate globally, using advanced techniques to redirect users—primarily from Thailand—to illegal gambling platforms. What you are about to read is based on a real-world infection scenario on a VPS server running AlmaLinux 9 with CWP (Control Web Panel).
 1. What is Casino SEO Poisoning?
 SEO Spam or SEO Poisoning is a cyberattack where criminals compromise legitimate websites to hijack their search engine authority and promote illegal products, such as unregulated online casinos (targeting audiences in Southeast Asia, notably Thailand) or counterfeit goods.
+
 How it Works in Practice
 LEGITIMATE WEBSITE (Victim)
          ↓
