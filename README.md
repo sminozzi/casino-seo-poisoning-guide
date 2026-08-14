@@ -63,7 +63,8 @@ Advantage for the Attacker
 Revenue Generation: Affiliate commissions from illegal Thai casino conversions.
 Pay-per-Action: Payouts for every redirected user who registers or deposits.
 Industrial Scale: Automated deployment attacking hundreds of server environments simultaneously.
-3. How to Detect and Test if Your Site is Compromised
+## 3. How to Detect and Test if Your Site is Comprom
+ised
 🔍 What Appears in Google Search?
 This is usually the first visible sign of an attack:
 Searching for site:yoursite.com on Google reveals heavily modified titles and meta descriptions promoting online casinos, sports betting, or Thai keywords such as "คาสิโน" (casino) or "พนัน" (gambling).
