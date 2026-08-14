@@ -172,7 +172,8 @@ Completely reinstall the web server binaries:
 yum reinstall cwp-httpd -y
 
 # Alternatively, execute a complete package purge and reinstall:
-yum remove cwp-httpd -y
+yum remove cwp-httpd -y. 
+
 yum install cwp-httpd -y
 
 
@@ -223,7 +224,53 @@ bengkel69apk.app
 ka789apk.app
 tt789apk.dev
 zk6apk.app
-
+tkp188apk.app
+gelay88apk.app
+666l-a.com
+sauditotapk.app
+6rt-s.com
+osg888-a.com
+rp88-n.com
+v89.io
+1yk1.net/
+33zkapk.app
+ttt8882.com
+PHL789-a.ph
+sogoslot1.com
+sl999link.com
+ke7.io
+salju4dapk.app
+9n9napk.dev
+P222-a.ph
+yyrr-a.org
+6666igames.com
+nk666apk.app
+gacormax-b.com
+bb0303-a.com
+PH1-a.ph
+na77-s.com
+api66-a.com
+JKT88-n.com
+janda4dapk.app
+km777-w.com
+PH54-a.ph
+jkt88-b.com
+v89-a.com
+fw66apk.net
+rk55apk.app
+garuda55apk.app
+koin138apk.app
+juragan77apk.app
+rajalangitapk.app
+mega388apk.app
+rpok-a.com
+poros77apk.app
+33ag-a.con
+slot97apk.app
+avatar808apk.app
+cocol88apk.app
+9yk1.com/
+spn88-b.com
 
 ## Security Reminder: 
 Immediately rotate all administrative secrets (root passwords, database credentials, FTP users, and panel tokens) after completing malware removal.
