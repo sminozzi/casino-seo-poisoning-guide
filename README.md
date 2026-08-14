@@ -45,7 +45,7 @@ Monetization frameworks structured as "SEO fraud-as-a-service"
 
 ## 2. What Damage is Caused to Legitimate Website Owners?
 
-Impact on the Victim (Legitimate Website)
+# Impact on the Victim (Legitimate Website)
 Impact
 Description
 Google Penalization
@@ -59,7 +59,7 @@ Immediate decline in conversions and organic revenue streams.
 Reputational Harm
 Brand association with illegal gambling activities.
 
-Advantage for the Attacker
+# Advantage for the Attacker
 Revenue Generation: Affiliate commissions from illegal Thai casino conversions.
 Pay-per-Action: Payouts for every redirected user who registers or deposits.
 Industrial Scale: Automated deployment attacking hundreds of server environments simultaneously.
